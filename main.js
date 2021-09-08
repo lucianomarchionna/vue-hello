@@ -5,7 +5,8 @@ const app = new Vue(
     {
         el: "#text",
         data: {
-            message: "LUCIANO MARCHIONNA"
+            message: "LUCIANO MARCHIONNA",
+            image: "img/windows.jpg"
         }
     }
 );
